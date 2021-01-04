@@ -28,6 +28,11 @@ namespace WebApplicationTest.Controllers
             return View();
         }
 
+        public IActionResult Index3()
+        {
+            return View();
+        }
+
 
         public IActionResult Privacy()
         {
